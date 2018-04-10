@@ -1,0 +1,5 @@
+CREATE TABLE user_groups (
+id int  NOT NULL,
+  email varchar(255) NOT NULL PRIMARY KEY,
+ groupname varchar(32) NOT NULL,
+)
