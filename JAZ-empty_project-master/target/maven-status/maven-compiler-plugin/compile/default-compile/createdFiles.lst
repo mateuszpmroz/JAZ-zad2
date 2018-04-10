@@ -1,0 +1,4 @@
+managedbean\LoginView.class
+web\servlets\FirstServlet.class
+validators\EmailValidator.class
+managedbean\RegisterView.class
